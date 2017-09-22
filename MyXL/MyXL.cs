@@ -8,5 +8,10 @@ namespace MyXL
 {
     public class Finance
     {
+        public static string test1(string bob)
+        {
+            return "Hello" + bob;
+        }
+
     }
 }
