@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyXL
 {
-    public class Class1
+    public class Finance
     {
     }
 }
